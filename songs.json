@@ -9,7 +9,7 @@
         "title": "Vin Skully",
         "artist": "Earl Sweatshirt",
         "year": 2023,
-        "genres": ["Jazz Rap"]
+        "genres": ["Jazz Rap", "Alternative Hip Hop"]
     },
     {
         "title": "Stephanie Saus",
@@ -51,7 +51,7 @@
         "title": "Excursions",
         "artist": "A Tribe Called Quest",
         "year": 1991,
-        "genres": ["Alternative Hip Hop", "Jazz Rap"]
+        "genres": ["Alternative Hip Hop", "Jazz Rap", "Jazz"]
     },
     {
         "title": "Seasons (Waiting on You)",
@@ -70,5 +70,11 @@
         "artist": "The Strokes",
         "year": 2001,
         "genres": ["Indie Rock", "Garage Rock"]
+    },
+    {
+        "title": "Electric",
+        "artist": "Boris",
+        "year": 2005,
+        "genres": ["Noise Rock", "Hardcore Punk", "Psychedelic Rock"]
     }
 ]
