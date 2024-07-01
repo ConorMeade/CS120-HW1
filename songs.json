@@ -1,0 +1,76 @@
+{
+    "songs": [
+                {
+                    "title": "You Made Me Realize",
+                    "artist": "my bloody valentine",
+                    "year": 1988,
+                    "genres": ["Shoegaze", "Noise Rock"]
+                },
+                {
+                    "title": "Vin Skully",
+                    "artist": "Earl Sweatshirt",
+                    "year": 2023,
+                    "genres": ["Jazz Rap"]
+                },
+                {
+                    "title": "Stephanie Saus",
+                    "artist": "The Velvet Underground",
+                    "year": 1985,
+                    "genres": ["Classic Rock", "Barouque pop"]
+                },
+                {
+                    "title": "Talk Talk",
+                    "artist": "Charli XCX",
+                    "year": 2024,
+                    "genres": ["Electropop", "Hyperpop", "Dance"]
+                },
+                {
+                    "title": "The Rip",
+                    "artist": "Portishead",
+                    "year": 2008,
+                    "genres": ["Trip-hop", "Electronic"]
+                },
+                {
+                    "title": "Kool Thing",
+                    "artist": "Sonic Youth",
+                    "year": 1990,
+                    "genres": ["Noise Rock", "Alternative rock"]
+                },
+                {
+                    "title": "TV Party",
+                    "artist": "Black Flag",
+                    "year": 1981,
+                    "genres": ["Hardcore Punk"]
+                },
+                {
+                    "title": "I Don't Want to Set the World on Fire",
+                    "artist": "The Ink Spots",
+                    "year": 1941,
+                    "genres": ["Jazz"]
+                },
+                {
+                    "title": "Excursions",
+                    "artist": "A Tribe Called Quest",
+                    "year": 1991,
+                    "genres": ["Alternative Hip Hop", "Jazz Rap"]
+                },
+                {
+                    "title": "Seasons (Waiting on You)",
+                    "artist": "Future Islands",
+                    "year": 2014,
+                    "genres": ["Sythpop", "Electronic Pop"]
+                },
+                {
+                    "title": "Ain't That Easy",
+                    "artist": "D'Angelo",
+                    "year": 2014,
+                    "genres": ["Progressive soul", "R&B"]
+                },
+                {
+                    "title": "Hard To Explain",
+                    "artist": "The Strokes",
+                    "year": 2001,
+                    "genres": ["Indie Rock", "Garage Rock"]
+                }
+            ]
+}
